@@ -46,10 +46,10 @@ This repository contains the analysis and supporting files for a Loan Eligibilit
 
 ## Contact 
 
-- For questions or collaboration, feel free to reach out:
+ **Vinay Sai Balaji Badarla**
 
-    [balaji3976@gmail.com](mailto:balaji3976@gmail.com)  
-    [LinkedIn Profile](https://www.linkedin.com/in/vinay-sai-balaji-badarla-294a75230/)  
+[balaji3976@gmail.com](mailto:balaji3976@gmail.com)  
+[LinkedIn Profile](https://www.linkedin.com/in/vinay-sai-balaji-badarla-294a75230/)  
     
 
 
